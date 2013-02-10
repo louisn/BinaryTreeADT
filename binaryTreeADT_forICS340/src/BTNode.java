@@ -1,7 +1,7 @@
 public class BTNode {
 	protected int element, x, y, px, py, level;
 	protected BTNode left, right, parent;
-		
+		// see what a change in a pull looks like.
 	public BTNode(){
 		element = -1;
 		x = -1;
